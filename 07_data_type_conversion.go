@@ -1,7 +1,3 @@
-/**
- * TODO: invalid value of integer conversion
- */
-
 package main
 
 import "fmt"

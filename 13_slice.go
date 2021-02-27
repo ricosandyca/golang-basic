@@ -1,6 +1,4 @@
 /**
- * TODO: learn more about slice
- *
  * Slice is created from array
  * Which Slice has same memory alloc with the based array
  *
