@@ -7,6 +7,7 @@ import (
 
 func main() {
 	// double linked list
+	// 1 <-(prev)&(next)-> 2 -&-> 3 -&-> 4
 	ll := list.New()
 	ll.PushBack("2")
 	ll.PushBack("3")
